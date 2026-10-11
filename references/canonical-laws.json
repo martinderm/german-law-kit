@@ -1,0 +1,190 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-10-11",
+  "laws": [
+    {
+      "id": "bgb",
+      "slug": "bgb",
+      "bjnr": "BJNR001950896",
+      "title": "Bürgerliches Gesetzbuch",
+      "short_title": "BGB",
+      "aliases": ["bgb", "bürgerliches gesetzbuch", "buergerliches gesetzbuch"]
+    },
+    {
+      "id": "weg",
+      "slug": "woeigg",
+      "bjnr": "BJNR001750951",
+      "title": "Gesetz über das Wohnungseigentum und das Dauerwohnrecht (Wohnungseigentumsgesetz)",
+      "short_title": "WEG",
+      "aliases": ["weg", "wohnungseigentumsgesetz", "woeigg", "wemog"]
+    },
+    {
+      "id": "baugb",
+      "slug": "bbaug",
+      "bjnr": "BJNR021410986",
+      "title": "Baugesetzbuch",
+      "short_title": "BauGB",
+      "aliases": ["baugb", "bbaug", "baugesetzbuch", "bundesbaugesetz"]
+    },
+    {
+      "id": "baunvo",
+      "slug": "baunvo",
+      "bjnr": "BJNR000110962",
+      "title": "Verordnung über die bauliche Nutzung der Grundstücke (Baunutzungsverordnung)",
+      "short_title": "BauNVO",
+      "aliases": ["baunvo", "baunutzungsverordnung"]
+    },
+    {
+      "id": "betrkv",
+      "slug": "betrkv",
+      "bjnr": "BJNR257310003",
+      "title": "Verordnung über die Aufstellung von Betriebskosten (Betriebskostenverordnung)",
+      "short_title": "BetrKV",
+      "aliases": ["betrkv", "betriebskostenverordnung"]
+    },
+    {
+      "id": "heizkostenv",
+      "slug": "heizkostenv",
+      "bjnr": "BJNR002610981",
+      "title": "Verordnung über die verbrauchsabhängige Abrechnung der Heiz- und Warmwasserkosten (Verordnung über Heizkostenabrechnung)",
+      "short_title": "HeizkostenV",
+      "aliases": ["heizkostenv", "heizkostenverordnung", "heizkostenabrechnung"]
+    },
+    {
+      "id": "woflv",
+      "slug": "woflv",
+      "bjnr": "BJNR234610003",
+      "title": "Verordnung zur Berechnung der Wohnfläche (Wohnflächenverordnung)",
+      "short_title": "WoFlV",
+      "aliases": ["woflv", "wohnflächenverordnung", "wohnflaechenverordnung"]
+    },
+    {
+      "id": "wovermittg",
+      "slug": "wovermrg",
+      "bjnr": "BJNR017450971",
+      "title": "Gesetz zur Regelung der Wohnungsvermittlung",
+      "short_title": "WoVermittG",
+      "aliases": ["wovermittg", "wovermrg", "wohnungsvermittlungsgesetz", "bestellerprinzip"]
+    },
+    {
+      "id": "grestg",
+      "slug": "grestg_1983",
+      "bjnr": "BJNR016050982",
+      "title": "Grunderwerbsteuergesetz 1983",
+      "short_title": "GrEStG",
+      "aliases": ["grestg", "grestg_1983", "grunderwerbsteuergesetz"]
+    },
+    {
+      "id": "gnotkg",
+      "slug": "gnotkg",
+      "bjnr": "BJNR258610013",
+      "title": "Gesetz über Kosten der freiwilligen Gerichtsbarkeit für Gerichte und Notare (Gerichts- und Notarkostengesetz)",
+      "short_title": "GNotKG",
+      "aliases": ["gnotkg", "gerichts- und notarkostengesetz", "notarkostengesetz"]
+    },
+    {
+      "id": "estg",
+      "slug": "estg",
+      "bjnr": "BJNR010050934",
+      "title": "Einkommensteuergesetz",
+      "short_title": "EStG",
+      "aliases": ["estg", "einkommensteuergesetz"]
+    },
+    {
+      "id": "ustg",
+      "slug": "ustg_1980",
+      "bjnr": "BJNR019530979",
+      "title": "Umsatzsteuergesetz",
+      "short_title": "UStG",
+      "aliases": ["ustg", "ustg_1980", "umsatzsteuergesetz"]
+    },
+    {
+      "id": "gbo",
+      "slug": "gbo",
+      "bjnr": "BJNR001390897",
+      "title": "Grundbuchordnung",
+      "short_title": "GBO",
+      "aliases": ["gbo", "grundbuchordnung"]
+    },
+    {
+      "id": "beurkg",
+      "slug": "beurkg",
+      "bjnr": "BJNR015130969",
+      "title": "Beurkundungsgesetz",
+      "short_title": "BeurkG",
+      "aliases": ["beurkg", "beurkundungsgesetz"]
+    },
+    {
+      "id": "erbbaurg",
+      "slug": "erbbauv",
+      "bjnr": "BJNR000720919",
+      "title": "Gesetz über das Erbbaurecht (Erbbaurechtsgesetz)",
+      "short_title": "ErbbauRG",
+      "aliases": ["erbbaurg", "erbbauv", "erbbaurechtsgesetz", "erbbaurecht"]
+    },
+    {
+      "id": "gewo",
+      "slug": "gewo",
+      "bjnr": "BJNR002450869",
+      "title": "Gewerbeordnung",
+      "short_title": "GewO",
+      "aliases": ["gewo", "gewerbeordnung"]
+    },
+    {
+      "id": "mabv",
+      "slug": "gewo_34cdv",
+      "bjnr": "BJNR011190974",
+      "title": "Verordnung über die Pflichten der Immobilienmakler, Darlehensvermittler, Bauträger und Baubetreuer (Makler- und Bauträgerverordnung)",
+      "short_title": "MaBV",
+      "aliases": ["mabv", "gewo_34cdv", "makler- und bauträgerverordnung", "makler- und bautraegerverordnung"]
+    },
+    {
+      "id": "geg",
+      "slug": "geg",
+      "bjnr": "BJNR172810020",
+      "title": "Gesetz zur Einsparung von Energie und zur Nutzung erneuerbarer Energien zur Wärme- und Kälteerzeugung in Gebäuden (Gebäudeenergiegesetz)",
+      "short_title": "GEG",
+      "aliases": ["geg", "gebäudeenergiegesetz", "gebaeudeenergiegesetz", "heizungsgesetz"]
+    },
+    {
+      "id": "trinkwv",
+      "slug": "trinkwv_2023",
+      "bjnr": "BJNR059010023",
+      "title": "Zweite Verordnung zur Novellierung der Trinkwasserverordnung",
+      "short_title": "TrinkwV",
+      "aliases": ["trinkwv", "trinkwv_2023", "trinkwasserverordnung"]
+    },
+    {
+      "id": "wistrg",
+      "slug": "wistrg_1954",
+      "bjnr": "BJNR001750954",
+      "title": "Gesetz zur weiteren Vereinfachung des Wirtschaftsstrafrechts (Wirtschaftsstrafgesetz 1954)",
+      "short_title": "WiStG 1954",
+      "aliases": ["wistrg", "wistrg_1954", "wirtschaftsstrafgesetz", "mietwucher"]
+    },
+    {
+      "id": "zpo",
+      "slug": "zpo",
+      "bjnr": "BJNR005330850",
+      "title": "Zivilprozessordnung",
+      "short_title": "ZPO",
+      "aliases": ["zpo", "zivilprozessordnung"]
+    },
+    {
+      "id": "vwgo",
+      "slug": "vwgo",
+      "bjnr": "BJNR000170960",
+      "title": "Verwaltungsgerichtsordnung",
+      "short_title": "VwGO",
+      "aliases": ["vwgo", "verwaltungsgerichtsordnung"]
+    },
+    {
+      "id": "bgbeg",
+      "slug": "bgbeg",
+      "bjnr": "BJNR006049896",
+      "title": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+      "short_title": "EGBGB",
+      "aliases": ["egbgb", "bgbeg", "einführungsgesetz zum bürgerlichen gesetzbuche"]
+    }
+  ]
+}
